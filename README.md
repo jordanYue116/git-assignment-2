@@ -47,13 +47,13 @@ git push
 
 8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
 
-9. You have now successfully used a branch and merged it into `main`.
+9. You have now successfully created and merged a branch into `main`.
 
 ---
 
 ## Part 2 (Making a pull request to my repository)
 
-1. GitHub now has your merged changes, but your **local** repository does not yet. \
+1. GitHub now has your merged changes, but your **local** repository has not yet. \
 Switch to `main` locally: \
 git checkout main
 
